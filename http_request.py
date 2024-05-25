@@ -14,5 +14,7 @@ class HTTPRequest():
         pass
     def save_cookie_file(self):
         pass
-
-
+    def post_request(self):
+        pass
+    def get_request(self):
+        pass
